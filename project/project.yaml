@@ -22,7 +22,7 @@ spec:
   source: git://github.com/GiladShapira94/test-working-dir.git#master
   subpath: ./project
   origin_url: git://github.com/GiladShapira94/test-working-dir.git#master
-  load_source_on_run: false
+  load_source_on_run: true
   desired_state: online
   owner: shapira
 status:
